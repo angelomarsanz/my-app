@@ -1,0 +1,26 @@
+{
+	"folders":
+	[
+		{
+			"path": "/opt/lampp/htdocs/typescript"
+		},
+		{
+			"path": "/opt/lampp/htdocs/cms"
+		},
+		{
+			"path": "/opt/lampp/htdocs/sistemasangabriel"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "/opt/lampp/htdocs/angular4cli"
+		},
+		{
+			"path": "/opt/lampp/htdocs/cake3api.app"
+		},
+		{
+			"path": "/opt/lampp/htdocs/wordpress/misitio"
+		}
+	]
+}
