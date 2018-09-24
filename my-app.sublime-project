@@ -20,7 +20,10 @@
 			"path": "/opt/lampp/htdocs/cake3api.app"
 		},
 		{
-			"path": "/opt/lampp/htdocs/wordpress/misitio"
+			"path": "/opt/lampp/htdocs/viniflexvalencia"
+		},
+		{
+			"path": "/opt/lampp/htdocs/wordpress"
 		}
 	]
 }
